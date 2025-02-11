@@ -90,7 +90,7 @@
                     <div class="flex justify-between bg-[#e6e6e6] place-items-center px-4 py-2 rounded-xl w-full">
                         <div>
                             <h1 class=" text-sm text-[#676767] font-[500] leading-3">Production Location</h1>
-                            <h1 class=" text-[16px] text-black font-[500]">Lemmi Fabrica</h1>
+                            <h1 class=" text-[16px] text-black font-[500]">Lemmi Kura Betam Fabrica</h1>
                         </div>
                         <div>
                             <img src="../assets/images/sidearrow.png" alt="">
