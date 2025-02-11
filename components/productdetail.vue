@@ -29,8 +29,8 @@
                 <img src="../assets/images/YellowStar.png" class="w-5 h-5" >
                 <img src="../assets/images/YellowStar.png" class="w-5 h-5">
                 <img src="../assets/images/YellowStar.png" class="w-5 h-5">
-                <img src="../assets/images/Whitestar.png" class="w-5 h-5">
-                <img src="../assets/images/Whitestar.png" class="w-5 h-5">
+                <img src="~/assets/images/Whitestar.png" class="w-5 h-5">
+                <img src="~/assets/images/Whitestar.png" class="w-5 h-5">
             </div>
             <div class="w-[10%]">
                 <h1>280.86ETB</h1>
