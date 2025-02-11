@@ -69,14 +69,12 @@ const order = [
                             <h1>Newsletter</h1>
                             <h1 class="text-[12px]">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software.</h1>
                         </div>
-                        <img src="../assets/images/toggle.png" class="w-9 h-fit">
                     </div>
                     <div class="bg-[#d3d3d3] w-full h-full rounded-xl px-3 py-2 flex place-items-center">
                         <div>
                             <h1>Newsletter</h1>
                             <h1 class="text-[12px]">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software.</h1>
                         </div>
-                        <img src="../assets/images/toggle.png" class="w-9 h-fit">
                     </div>
                 </div>
             </div>
