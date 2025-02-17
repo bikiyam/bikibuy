@@ -1,7 +1,7 @@
 <template>
     <div class="w-full px-44 py-10 flex gap-6">
         <div class="img">
-            <img src="../assets/images/bodybuilder.png" class=" rounded-xl w-[300px] min-w-[300px] h-[500px] object-cover" alt="">
+            <img src="../assets/images/Converse.jpg" class=" rounded-xl w-[300px] min-w-[300px] h-[500px] object-cover" alt="">
         </div>
         <div class=" bg-[#d7d7d7] w-full rounded-xl px-8 py-8 flex flex-col justify-between">
             <div class="justify-between">
@@ -22,7 +22,7 @@
                             </div>
                         </div>
                         <div class="flex flex-col text-center place-items-center">
-                        <h1 class=" text-[14px] text-[800] text-[#a0a0a0]"><span class="text-black">Our Team</span> is available to help you.</h1>
+                        <h1 class=" text-[14px] text-[800] text-[#838383]"><span class="text-black font-semibold">Our Team</span> is available to help you.</h1>
                         <div>
                             <img src="../assets/images/slide2.jpg" class="h-[100px] w-[100px] rounded-full">
                         </div>

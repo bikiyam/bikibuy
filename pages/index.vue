@@ -7,11 +7,9 @@ import Category from '~/components/category.vue';
 <template>
     <div class="flex flex-col gap-5">
         <div>
+            <Navbar/>
             <Showoff/>
             <Category/>
-        </div> 
-
-        <div>
             <Advert/>
             <Newsletter/>
             <Footer/>

@@ -1,7 +1,7 @@
 <template>
     <div class=" flex px-20 py-28 place-items-center justify-between">
         <div class=" justify-between ">
-            <h1 class=" text-[42px] font-[600] leading-[40px] text-black ">Join our Newsletter.</h1> 
+            <h1 class=" text-[42px] font-[600] leading-[40px] text-white ">Join our Newsletter.</h1> 
             <h3 class="text-[#4e4e4e] text-sm font-[500] leading-5">We’ll send you a list of things you may like once a week.
                 Nothing unnecessary. </h3>       
         </div>
