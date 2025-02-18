@@ -13,9 +13,11 @@
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
                     </h2>
                     <div class="flex mt-[1px] place-items-center gap-2">
-                        <div class="px-4 py-2 bg-white text-black z-10 rounded-3xl w-fit text-[13px] font-semibold">
-                            <h1>View Product</h1>
-                        </div>
+                        <NuxtLink to="/product">
+                            <div class="px-4 py-2 bg-white text-black z-10 rounded-3xl w-fit text-[13px] font-semibold">
+                                <h1>View Product</h1>
+                            </div>
+                        </NuxtLink>
                         <div class="arrowtopright text-black bg-white w-9 h-9 rounded-full flex place-items-center justify-center ml-[-2px]">
                             <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-arrow-up-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M17 7l-10 10" /><path d="M8 7l9 0l0 9" /></svg>
                         </div>

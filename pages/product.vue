@@ -1,4 +1,6 @@
 <template>
-    <Navbar/>
-
+    <div>
+        <Navbar/>
+        <ProductViewproduct/>
+    </div>
 </template>
