@@ -63,8 +63,6 @@ const avai = ["Available in stock", "Not available in stock"];
         </div>
     </div>
 
-    <div class="mt-52">
-        <h1>Measurements: Weight: 15 oz Product measurements were taken using size 11 Little Kid, width M. Please note that measurements may vary by size. Weight of footwear is based on a single item, not a pair.</h1>
-    </div>
+    
 
 </template>
