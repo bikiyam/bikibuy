@@ -1,7 +1,7 @@
 <template>
 
-<div class="featured flex flex-col w-[300px] min-w-[300px] p-3 h-[400px] bg-gray-500 rounded-lg relative overflow-hidden text-black">
-    <img src="../../assets/images/Specials.jpg" alt="" class=" w-[450px] h-full rounded-lg absolute top-0 left-0 object-cover">
+<div class="featured flex flex-col w-[270px] min-w-[270px] p-3 h-[360px] bg-gray-500 rounded-lg relative overflow-hidden text-white">
+    <img src="../../assets/images/Specials.jpg" alt="" class=" w-[300px] h-full rounded-lg absolute top-0 left-0 object-cover">
     <div class="bg-[#0000006e] backdrop-blur-sm absolute top-0 left-0 w-full h-16 flex mt-auto z-10 " style="-webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 80%, rgba(0,0,0,0) 100%); 
             mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 80%, rgba(0,0,0,0) 100%);"></div>
     <div class="bg-[#0000006e] backdrop-blur-sm absolute bottom-0 left-0 w-full h-28 flex mt-auto z-10 " style="-webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1) 80%, rgba(0,0,0,0) 100%); 
