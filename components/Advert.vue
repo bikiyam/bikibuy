@@ -24,7 +24,7 @@
                         <div class="flex flex-col text-center place-items-center">
                         <h1 class=" text-[14px] text-[800] text-[#838383]"><span class="text-black font-semibold">Our Team</span> is available to help you.</h1>
                         <div>
-                            <img src="../assets/images/slide2.jpg" class="h-[100px] w-[100px] rounded-full">
+                            <img src="../assets/images/specials2.jpg" class="h-[100px] w-[100px] rounded-full">
                         </div>
                         </div>
                     </div>

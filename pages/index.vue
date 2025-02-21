@@ -5,19 +5,13 @@ import Category from '~/components/category.vue';
 
 
 <template>
-    <div class="flex flex-col gap-5">
-        <div>
-            <Navbar/>
-            <Showoff/>
-            <Category/>
-            <Advert/>
-            <Newsletter/>
-            <Footer/>
-        </div>
-
-        <div>
-            
-        </div>
+    <div class="flex flex-col gap-16">
+        <Navbar/>
+        <Showoff/>
+        <Category/>
+        <Advert/>
+        <Newsletter/>
+        <Footer/>
     </div>
 
 
